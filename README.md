@@ -13,18 +13,16 @@ Properly-Wearing-Masked-Detect-Dataset is a dataset for mask face detection with
 You can download the dataset from links below:
 <br>
 
-Training set: [OneDrive](
+Download Training set from [OneDrive](
 https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
 or [BaiduDisk](
-https://pan.baidu.com/s/1DSBMvS8tEEG1ncJDpzvWUQ) Code: pvne
+https://pan.baidu.com/s/1DSBMvS8tEEG1ncJDpzvWUQ) with code: pvne
 
-Validation set: [OneDrive](
+Download Validation set from [OneDrive](
 https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
 or [BaiduDisk](
-https://pan.baidu.com/s/1TttVyko9cu-INprTtJnFmw) Code: gbmw
-
-
-
-# Download
+https://pan.baidu.com/s/1TttVyko9cu-INprTtJnFmw) with code gbmw
 
 # Related Work
+
+# Contact
