@@ -2,19 +2,27 @@
 Properly-Wearing-Masked Detect Dataset，口罩人脸数据集
 
 # Dataset
-You can download the dataset below:
-67,193 images with Correctly Masked Face Dataset (CMFD) at 1024×1024: [OneDrive](
+Properly-Wearing-Masked-Detect-Dataset is a dataset for mask face detection with 9,205 images and 18,532 labeled instances. 
+<br>The dataset is splitted as follow:
+
+
+You can download the dataset from links below:
+<br>
+
+Training set: [OneDrive](
 https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
-[BaiduDisk](
-https://pan.baidu.com/s/1TttVyko9cu-INprTtJnFmw)
+or [BaiduDisk](
+https://pan.baidu.com/s/1DSBMvS8tEEG1ncJDpzvWUQ) Code: pvne
 
-69,823 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024 - : [Go to OneDrive (20 GB)](https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/EirjS8ew7-5LnO8I56Uk63wBKebwSlukFBFBaO8N25wn3g?e=Ho1jHG)
+Validation set: [OneDrive](
+https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
+or [BaiduDisk](
+https://pan.baidu.com/s/1TttVyko9cu-INprTtJnFmw) Code: gbmw
 
-| Set | Images  | #withmask| #without_mask | #incorrect_mask  |
+| Set | #Images  | #withmask| #without_mask | #incorrect_mask  |
 |--------|:---------:|:------:|:------:|:------:|
-| [SSD-300 VGG-based](https://drive.google.com/open?id=0B0qPCUZ-3YwWZlJaRTRRQWRFYXM) | VOC07+12 trainval | VOC07 test | 0.778 | - |
-| [SSD-300 VGG-based](https://drive.google.com/file/d/0B0qPCUZ-3YwWUXh4UHJrd1RDM3c/view?usp=sharing) | VOC07+12+COCO trainval | VOC07 test | 0.817 | - |
-| [SSD-512 VGG-based](https://drive.google.com/open?id=0B0qPCUZ-3YwWT1RCLVZNN3RTVEU) | VOC07+12+COCO trainval | VOC07 test | 0.837 | - |
+| Training | 7385  | 6702 | 9680 | 320 |
+| Validation | 1820 | 993 | 791 | 46 |
 
 # Download
 
