@@ -26,3 +26,10 @@ https://pan.baidu.com/s/1TttVyko9cu-INprTtJnFmw) with code gbmw
 # Related Work
 
 # Contact
+
+# Samples
+
+<img alt="sample_1" src="https://github.com/ethancvaa/Properly-Wearing-Masked-Detect-Dataset/blob/master/Samples/sample_1.jpg"></img>
+<img alt="sample_2" src="https://github.com/ethancvaa/Properly-Wearing-Masked-Detect-Dataset/blob/master/Samples/sample_2.jpg"></img>
+<img alt="sample_3" src="https://github.com/ethancvaa/Properly-Wearing-Masked-Detect-Dataset/blob/master/Samples/sample_3.jpg"></img>
+<img alt="sample_4" src="https://github.com/ethancvaa/Properly-Wearing-Masked-Detect-Dataset/blob/master/Samples/sample_4.jpg"></img>
