@@ -23,10 +23,6 @@ https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzx
 or [BaiduDisk](
 https://pan.baidu.com/s/1TttVyko9cu-INprTtJnFmw) with code gbmw
 
-# Related Work
-
-# Contact
-
 # Samples
 
 <img alt="sample_1" src="https://github.com/ethancvaa/Properly-Wearing-Masked-Detect-Dataset/blob/master/Samples/sample_1.jpg"></img>
