@@ -14,12 +14,12 @@ You can download the dataset from links below:
 <br>
 
 Download Training set from [OneDrive](
-https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
+https://1drv.ms/u/s!AokJXAN2wZUUg0XnoAe35Gw8aFJ8?e=ndgaS6)
 or [BaiduDisk](
 https://pan.baidu.com/s/1KzI0i-nuaxlHokNGI0igOw) with code: 2y0x
 
 Download Validation set from [OneDrive](
-https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
+https://1drv.ms/u/s!AokJXAN2wZUUg0RogDZUI7RiVko9?e=cmbQ1A)
 or [BaiduDisk](
 https://pan.baidu.com/s/1teWK5sHZVmOlO-ditMjrRw) with code：xu5y
 
